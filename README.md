@@ -32,7 +32,9 @@ Clone this repository to your local machine:
 ## Usage
 Run the main training script to start training the agent:
 
-`python main_lunar_lander.py`
+```bash
+python main_lunar_lander.py
+```
 
 The agent will start training, and you'll see progress printed to the console along with scores for each episode.
 
