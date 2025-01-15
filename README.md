@@ -39,5 +39,6 @@ python main_lunar_lander.py
 The agent will start training, and you'll see progress printed to the console along with scores for each episode.
 
 ## Acknowledgements
-This project is built with the guide of Machine Learning with Phil youtube channel: https://www.youtube.com/watch?v=SMZfgeHFFcA&t=1269s
+- This project was built with the help of the guide from the Machine Learning with Phil YouTube channel: https://www.youtube.com/watch?v=SMZfgeHFFcA&t=1269s
+- The `utils.py` module used in this project was sourced from Phil Tabor's YouTube Code Repository: https://github.com/philtabor/Youtube-Code-Repository/blob/master/ReinforcementLearning/DeepQLearning/main_tf2_dqn_lunar_lander.py
 
