@@ -9,11 +9,6 @@ The project involves training an agent to control the Lunar Lander in a simulate
 - **Reinforcement Learning Algorithm**: Deep Q-Learning (DQN)
 - **Frameworks**: TensorFlow, Keras, Numpy
 
-### Key Features:
-- The agent is trained using Q-Learning with experience replay.
-- The environment is simulated using OpenAI Gym's LunarLander-v2.
-- The DQN is implemented using TensorFlow and Keras for building the neural network.
-
 ## Prerequisites
 Ensure that the following libraries are installed:
 
