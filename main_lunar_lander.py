@@ -5,7 +5,6 @@ from utils import plotLearning
 import tensorflow as tf
 
 if __name__ == '__main__':
-    tf.compat.v1.disable_eager_execution()
     env = gym.make('LunarLander-v2')
     lr = 0.001
     n_games = 500

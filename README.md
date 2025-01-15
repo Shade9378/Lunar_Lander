@@ -29,6 +29,13 @@ Clone this repository to your local machine:
    cd lunar_lander
    ```
 
+## Usage
+Run the main training script to start training the agent:
+
+`python main_lunar_lander.py`
+
+The agent will start training, and you'll see progress printed to the console along with scores for each episode.
+
 ## Acknowledgements
 This project is built with the guide of Machine Learning with Phil youtube channel: https://www.youtube.com/watch?v=SMZfgeHFFcA&t=1269s
 
